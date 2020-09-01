@@ -1,8 +1,7 @@
 /*	 
     * Copyright © Dan Elimelech - All rights reserved
     *
-    * This file manages the assembling process.
-    * It uses the "two transitions" algorithm, and then creates the output files.
+    * This file reads the lines from the file, and convert them into data structures.
 */
 
 /* Includes */
