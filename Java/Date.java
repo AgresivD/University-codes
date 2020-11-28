@@ -2,10 +2,6 @@
     * File: Date.java
         * Description:
             Represents a date using its individual attributes (month, day, year)
-            
-        * @class: Date
-        * @author Dan Elimelech.
-        * @date Friday, November 16, 2019
  */
 public class Date
 {
