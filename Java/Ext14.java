@@ -2,10 +2,6 @@
     * File: Ext14.java
         * Description:
             Representing Maman 14.
-            
-        * @class: Ext14
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Saturday, Febuary 1, 2020
 */
 public class Ex14
 {
