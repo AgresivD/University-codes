@@ -1,6 +1,4 @@
 /*	 
-    * Copyright © Dan Elimelech - All rights reserved
-    *
     * This file manages the assembling process.
     * It uses the "two transitions" algorithm, and thenc creates the output files.
 */
