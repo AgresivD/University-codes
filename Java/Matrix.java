@@ -2,10 +2,6 @@
     * File: Matrix.java
         * Description:
             Representing a matrix 2D array of integers in the range 0-255.
-            
-        * @class: Matrix
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Friday, December 27, 2019
 */
 public class Matrix
 {
