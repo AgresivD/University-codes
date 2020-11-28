@@ -2,10 +2,6 @@
     * File: Stock.java
         * Description:
             Representing store inventory.
-            
-        * @class: Stock
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Friday, December 27, 2019
 */
 public class Stock
 {
