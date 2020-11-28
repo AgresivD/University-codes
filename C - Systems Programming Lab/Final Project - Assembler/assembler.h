@@ -1,6 +1,4 @@
 /*	 
-    * Copyright © Dan Elimelech - All rights reserved
-    *
     * General header file for the assembly.
     * Contains Definitions, Macros, Data structures and method declaration.
 */
