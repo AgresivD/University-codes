@@ -1,6 +1,4 @@
 /*	 
-    * Copyright © Dan Elimelech - All rights reserved
-    *
     * This file gets the data structures from the first file read, and convert them into bits.
 */
 
