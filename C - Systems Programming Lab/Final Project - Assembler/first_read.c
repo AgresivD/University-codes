@@ -1,6 +1,4 @@
 /*	 
-    * Copyright © Dan Elimelech - All rights reserved
-    *
     * This file reads the lines from the file, and convert them into data structures.
 */
 
