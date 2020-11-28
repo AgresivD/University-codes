@@ -1,10 +1,6 @@
 /*	 
-	 * Copyright © Dan Elimelech - All rights reserved
-	 *
 	 * An interactive program that reads commands from the standrad input,
 	 * decodes and execute them. The commands deal with arithmetic oprations on complex numbers.
-	 *
-	 * This code was prepared for a laboratory course in systems programming.
 */
 #include <stdio.h>
 #include <string.h>
