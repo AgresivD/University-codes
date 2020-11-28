@@ -2,10 +2,6 @@
     * File: PolyNode.java
         * Description:
             Represents one polynomial organ.
-            
-        * @class: PolyNode
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Saturday, Febuary 8, 2020
 */
 public class PolyNode
 {
