@@ -2,10 +2,6 @@
     * File: Polynom.java
         * Description:
             Represents a polynomial using a linked list.
-            
-        * @class: Polynom
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Saturday, Febuary 8, 2020
 */
 public class Polynom
 {
