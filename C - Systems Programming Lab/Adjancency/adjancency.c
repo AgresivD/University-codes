@@ -4,9 +4,6 @@
     * The program accept a neighbors matrix of a tree with N nodes
     * And then uses the path function that returns TRUE value if there is a directed arc from the u node to the v node.
     * In other words if u parent or ancestor of v in the tree.
-        
-        * @Task: Maman12
-        * @Author: Dan Elimelech
 */
 #include <stdio.h>
 
