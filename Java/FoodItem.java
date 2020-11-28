@@ -1,9 +1,5 @@
 /**
     * Representing food products at store.
-        *     
-        * @class: FoodItem
-        * @author Dan Elimelech.
-        * @version 1.0, Latest update: Sunday, December 08, 2019
 */
 public class FoodItem
 {
