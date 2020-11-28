@@ -1,7 +1,5 @@
 /*	 
-    * Copyright © Dan Elimelech - All rights reserved
-    *
-    * This file contains the assembling export methods.
+    * Contains the assembling export methods.
 */
 
 /* Includes */
