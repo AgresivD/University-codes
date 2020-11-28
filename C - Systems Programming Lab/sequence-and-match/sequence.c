@@ -3,9 +3,6 @@
     * 
     *   The Program receives text input from the user through the terminal
     *   And prints its series type according to ASCII values except "white" characters.
-        
-        * @Task: Maman11 
-        * @Author: Dan Elimelech
 */
 #include <stdio.h>
 #include <string.h>
