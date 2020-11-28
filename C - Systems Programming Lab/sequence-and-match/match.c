@@ -3,9 +3,6 @@
     * 
     *   The program receives two strings from the user (pattern and text)
     *   And uses the string matching function that returns the position with the smallest number of discrepancies.
-        
-        * @Task: Maman11 
-        * @Author: Dan Elimelech
 */
 #include <stdio.h>
 #include <string.h>
